@@ -30,7 +30,7 @@ All compute and database layers run inside private subnets.
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage]([screenshots/homepage.png](http://netflixc-alb-ewmzxl3ofvmt-799506905.ap-southeast-2.elb.amazonaws.com/))
 
 ## API
 
