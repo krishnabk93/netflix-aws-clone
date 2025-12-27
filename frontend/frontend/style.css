@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: black;
+}
+
+.logo {
+  color: red;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.btn {
+  padding: 8px 16px;
+  background: transparent;
+  color: white;
+  border: none;
+}
+
+.red {
+  background: red;
+}
+
+.hero {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 40px;
+  background: linear-gradient(black, #111);
+}
+
+.movie-row {
+  display: flex;
+  gap: 20px;
+  padding: 40px;
+}
+
+.movie-card {
+  background: #222;
+  padding: 15px;
+  width: 200px;
+}
